@@ -4,7 +4,13 @@ Base admin built with Vue.js
 ## Vue init webpack
 Lorem ipsum dolor sit amet.
 
-## Árvore de diretórios e arquivos padrões e personalizados
+## Application structure
+Lorem ipsum dolor sit amet.
+
+#### vue default structure
+Lorem ipsum dolor sit amet.
+
+#### customizing default structure
 Lorem ipsum dolor sit amet.
 
 ## Vue Router
@@ -31,11 +37,11 @@ Lorem ipsum dolor sit amet.
 #### running with Express
 Lorem ipsum dolor sit amet.
 
-## deploying with Docker and CircleCI
+## Deploying with Docker and CircleCI
 Lorem ipsum dolor sit amet.
 
 #### AWS
 Lorem ipsum dolor sit amet.
 
-#### Heroku
+#### heroku
 Lorem ipsum dolor sit amet.
